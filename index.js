@@ -14,3 +14,6 @@ function sayHiToGrandma(string) {return string.toLowerCase("I can't hear you!")
 }
 
 function sayHiToGrandma(string) {return string.toUpperCase("YES INDEED!")
+}
+
+function sayHiToGrandma(string) {return string("I love you, too")
